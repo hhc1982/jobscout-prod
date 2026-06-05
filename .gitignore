@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.local
+.vercel
+android/
+ios/
+.DS_Store
+*.log
+.capacitor/
